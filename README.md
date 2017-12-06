@@ -12,5 +12,5 @@ are you happy ?
     because of some errors in using the hangul code processing of github editor.
 
 
-깃허브에서 띄어쓰기 표시가 이상한 것은 어떻게하지 ??
+깃허브에서 띄어쓰기 표시가 이상한 것은 어떻게하지 ?? (수정하면 됨니다)
 
